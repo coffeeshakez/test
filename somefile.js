@@ -12,6 +12,3 @@ const testlkj2 = 'skaldj';
 
 
 const someData = 'some data';
-
-
-const revertMe = "revert me!";
