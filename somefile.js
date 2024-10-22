@@ -9,3 +9,6 @@ const removeMe2 = 'remove me 2';
 
 const testlkj = 'skaldj';
 const testlkj2 = 'skaldj';
+
+
+const someData = 'some data';
